@@ -1,0 +1,1 @@
+Just testing vue-server-renderer library and how exactly it works
